@@ -7,7 +7,7 @@ The Resnets version are:
  - Resnet32 
  - Resnet50 
  - Resnet101
- - Resnet152
+ - Resnet1528
  
 The main goal is to optimize training error and accuracy. I will show the plots in the next section. 
 
