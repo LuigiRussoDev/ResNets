@@ -38,6 +38,8 @@ $ python resnet20.py
 | ResNet110 | 0,97 | 0,87 | 0,08 | 0,58 | 1,520,458
 | ResNet152 | 0,98 | 0,88 | 0,05 | 0,54 | 2,511,242
 | OdeNet | 0,93 | 0,85 | 0,19 | 0,46 | 209,000
+
+
 ![](images/TrainLoss.jpg)
 
 As you can see the training error will decrease with in deeper model. This is not possible with other CNN especially in deeper model. 
