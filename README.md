@@ -42,12 +42,13 @@ $ python resnet20.py
 
 ![](images/TrainLoss.jpg)
 
-As you can see the training error will decrease with in deeper model. This is not possible with other CNN especially in deeper model. 
+As you can see the training error will decrease with in deeper model. This is not possible with other CNNs especially in very deep model. 
 In this case we have seen a model of 152 blocks to be very performant than others. 
 
 ### Hyperparameters 
-Optimizer: Adam 
-Learning Rate in schedule from 0.001
-Training Epoches: 150 
-BatchSize: 32
+- Optimizer: Adam 
+- Learning Rate in schedule from 0.001
+- Training Epoches: 150 
+- BatchSize: 32
+- CrossEntropy Loss
 
